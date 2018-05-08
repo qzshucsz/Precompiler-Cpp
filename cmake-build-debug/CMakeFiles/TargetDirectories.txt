@@ -1,0 +1,3 @@
+D:/OOP/Lab2/Precompiler/cmake-build-debug/CMakeFiles/HeadMatch.dir
+D:/OOP/Lab2/Precompiler/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/OOP/Lab2/Precompiler/cmake-build-debug/CMakeFiles/rebuild_cache.dir
